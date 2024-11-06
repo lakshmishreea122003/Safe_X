@@ -6,3 +6,4 @@
  - Implemented text moderation with Gemini to convert harmful language into safer content.
 - Tech Stack: Streamlit, Hugging Face Transformers (BERT),PyTorch, MySQL, Gemini, Pinecone,
  LlamaIndex.
+- Tweepy is used.
